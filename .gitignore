@@ -1,0 +1,4 @@
+﻿.claude/
+*.jfif
+node_modules/
+.env
